@@ -1,2 +1,1 @@
-# tensorflow-deep-learning
-TensorFlow | Java example
+# TensorFlow | Java example
